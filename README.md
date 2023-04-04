@@ -1,4 +1,4 @@
-# Rejetto HTTP File Server HFS 2.3.x - Remote-Command-Execution
+# Rejetto HTTP File Server HFS 2.3.x - Remote Command Execution
 CVE-2014-6287
 
 Rewrite of Pergyz 49584.py to return an x64 PowerShell Reverse Shell
